@@ -1,0 +1,19 @@
+car-price-predictor/
+├── app.py                      # Flask application (Python 3.13 compatible)
+├── requirements.txt            # Dependencies for Python 3.13
+├── runtime.txt                 # Specifies Python 3.13 for Azure
+├── startup.txt                 # Gunicorn startup command
+├── .deployment                 # Azure deployment configuration
+├── .gitignore                  # Git ignore rules
+├── deploy-to-azure.sh          # Automated deployment (Linux/Mac)
+├── deploy-to-azure.ps1         # Automated deployment (Windows)
+├── AZURE_DEPLOYMENT.md         # Complete deployment guide
+├── README.md                   # Project documentation
+└── static/
+    └── index.html              # Beautiful web interface
+
+DEPLOYMENT READY! ✅
+- Python 3.13 compatible
+- Azure App Service optimized
+- One-click deployment scripts
+- Production-ready configuration
